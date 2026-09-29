@@ -1,0 +1,77 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "act_2_the_skybound_aviator"
+	group: ""
+	icon: "immersive_aircraft:biplane"
+	id: "2FB491D127A394B2"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			icon: {
+				Count: 1
+				id: "minecraft:wooden_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0FDD1B1FF154FDC7"
+			rewards: [{
+				id: "35B08DDD7291BBDA"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "7A370F7A308E6CC8"
+				item: {
+					Count: 1
+					id: "minecraft:wooden_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "1.1: Timber \\& Steel"
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0FDD1B1FF154FDC7"]
+			id: "5179B1B4215EC736"
+			rewards: [
+				{
+					id: "167CEEDAAA0C4AF7"
+					item: {
+						Count: 1
+						id: "minecraft:iron_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "00B3FB2679198AE6"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "minecraft:zombie_head"
+				id: "31C14BB7370D7035"
+				title: "1.2: Ghostbuster"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+	]
+	title: "Act 2: The Skybound Aviator"
+}

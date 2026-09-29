@@ -1,0 +1,11 @@
+{
+  "allowMovement": {
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "xaero.map.gui.GuiMap": true
+  },
+  "hideBackground": {
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
+  }
+}

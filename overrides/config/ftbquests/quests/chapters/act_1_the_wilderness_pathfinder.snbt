@@ -1,0 +1,19 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "act_1_the_wilderness_pathfinder"
+	group: ""
+	icon: {
+		Count: 1
+		id: "minecraft:wooden_axe"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "2C2675CB9A0A7D24"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	subtitle: ["A survival odyssey under harsh climate"]
+	title: "Act 1: The Wilderness Pathfinder"
+}
