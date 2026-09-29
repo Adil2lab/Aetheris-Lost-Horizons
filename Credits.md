@@ -1,0 +1,98 @@
+# Credits
+## Mods
+Huge thanks to these people, as their creations helped me build Aetheris: Lost Horizon.
+- [Alex's Mobs](https://modrinth.com/mod/2cMuAZAp) by Alexthe668, Carro1001, Paint\_Ninja
+- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by squeek
+- [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
+- [Artifacts](https://modrinth.com/mod/P0Mu4wcQ) by ochotonida
+- [AttributeFix](https://modrinth.com/mod/lOOpEntO) by Darkhax
+- [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) by Thosea
+- [BaguetteLib](https://modrinth.com/mod/OfKzpbRU) by Leclowndu93150
+- [Balm](https://modrinth.com/mod/MBAkmtvl) by BlayTheNinth
+- [Better Combat](https://modrinth.com/mod/5sy6g3kz) by Daedelus
+- [Better Third Person](https://modrinth.com/mod/G1s2WpNo) by Socolio
+- [Caelus API](https://modrinth.com/mod/40FYwb4z) by C4
+- [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) by dzwdz, Fourmisain
+- [Chunky](https://modrinth.com/mod/fALzjamp) by pop4959
+- [Citadel](https://modrinth.com/mod/jJfV67b1) by Alexthe666
+- [Cloth Config v10 API](https://modrinth.com/mod/9s6osm5g) by shedaniel
+- [Clumps](https://modrinth.com/mod/Wnxd13zP) by Jaredlll08
+- [Cold Sweat](https://modrinth.com/mod/uXhSmPjd) by iMikul, chubbymomo, skinnymomo
+- [Comforts](https://modrinth.com/mod/SaCpeal4) by Illusive Soulworks
+- [Controlling](https://modrinth.com/mod/xv94TkTM) by Jaredlll08
+- [Corpse](https://modrinth.com/mod/WrpuIfhw) by Max Henkel
+- [Corpse Curios Compatibility](https://modrinth.com/mod/pJGcKPh1) by Leclowndu93150
+- [Curios API](https://modrinth.com/mod/vvuO3ImH) by C4
+- [Deeper and Darker](https://modrinth.com/mod/fnAffV0n) by Kyanite Team
+- [Do a Barrel Roll](https://modrinth.com/mod/6FtRfnLg) by enjarai
+- [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) by juliand665 & LostLuma
+- [Embeddium](https://modrinth.com/mod/sk9rgfiA) by embeddedt
+- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) by tr7zw
+- [Explorer's Compass](https://modrinth.com/mod/RV1qfVQ8) by ChaosTheDude
+- [FTB Library](https://www.curseforge.com/projects/404465) by FTB Team
+- [FTB Quests](https://www.curseforge.com/projects/289412) by FTB Team
+- [FTB Teams](https://www.curseforge.com/projects/404468) by FTB Team
+- [FTB XMod Compat](https://www.curseforge.com/projects/889915) by FTB Team
+- [FallingTree](https://modrinth.com/mod/Fb4jn8m6) by Rakambda
+- [Ferrite Core](https://modrinth.com/mod/uXXizFIs) by malte0811
+- [Fzzy Config](https://modrinth.com/mod/hYykXjDp) by fzzyhmstrs
+- [GeckoBetterFPS](https://modrinth.com/mod/CZyWdBUo) by MoePus
+- [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H) by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
+- [GeckoLibIrisCompat](https://modrinth.com/mod/TbriQCWD) by ElocinDev
+- [Iceberg](https://modrinth.com/mod/5faXoLqX) by Grend
+- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
+- [Immersive Aircraft](https://modrinth.com/mod/x3HZvrj6) by Luke100000
+- [InvMove](https://modrinth.com/mod/REfW2AEX) by PieKing1215
+- [InvMoveCompats](https://modrinth.com/mod/6IpcGP7T) by PieKing1215
+- [Iron's Lib](https://modrinth.com/mod/9nfaJPtX) by Iron431
+- [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/s4OWxYQQ) by Iron431, Lab3
+- [Jade](https://modrinth.com/mod/nvQzSEkH) by Snownee
+- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) by mezz
+- [Just Enough Resources](https://modrinth.com/mod/uEfK2CXF) by way2muchnoise
+- [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz)
+- [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) by Fuzs
+- [Legendary Tooltips](https://modrinth.com/mod/atHH8NyV) by Grend
+- [LionfishAPI](https://modrinth.com/mod/FoVacERa)
+- [Lithostitched](https://modrinth.com/mod/XaDC71GB) by Apollo
+- [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) by FX \- PR0CESS
+- [MezzConfig](https://modrinth.com/mod/7tEfOcA7) by mezz
+- [ModernFix](https://modrinth.com/mod/nmDcB62a) by embeddedt
+- [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) by Ivan Molodetskikh \(YaLTeR\)
+- [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) by ChaosTheDude
+- [Oculus](https://modrinth.com/mod/GchcoXML) by NanoLive, dima\_dencep, coderbot, IMS212, Justsnoopy30, FoundationGames
+- [Paraglider](https://modrinth.com/mod/esqWA0aQ) by Tictim
+- [Player Animator](https://modrinth.com/mod/gedNE4y2) by KosmX
+- [Polymorph](https://modrinth.com/mod/tagwiZkJ) by Illusive Soulworks
+- [Prism](https://modrinth.com/mod/1OE8wbN0) by Grend
+- [Pufferfish's Skills](https://modrinth.com/mod/hqQqvaa4) by Pufferfish
+- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) by Fuzs
+- [Searchables](https://modrinth.com/mod/fuuu3xnx) by Jaredlll08
+- [Simply Swords](https://modrinth.com/mod/bK3Ubu9p) by Sweenus
+- [Simply Tooltips](https://modrinth.com/mod/6avVoBVB) by Sweenus
+- [Sophisticated Backpacks](https://modrinth.com/mod/TyCTlI4b) by P3pp3rF1y, Ridanisaurus
+- [Sophisticated Core](https://modrinth.com/mod/nmoqTijg) by P3pp3rF1y
+- [Sophisticated Storage](https://modrinth.com/mod/hMlaZH8f) by P3pp3rF1y, Ridanisaurus
+- [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) by Sonic Ether, vlad2305m, Max Henkel, Saint
+- [Tectonic](https://modrinth.com/mod/lWDHr9jE) by Apollo
+- [TerraBlender](https://modrinth.com/mod/kkmrDlKT) by Adubbz
+- [Terralith](https://modrinth.com/mod/8oi3bsk5) by Stardust Labs
+- [The Twilight Forest](https://www.curseforge.com/projects/227639) by Benimatic, AtomicBlom, Drullkus, Killer\_Demon, quadraxis, Tamaized, williewillus, Andromander, GizmoTheMoonPig, jodlodi
+- [The Undergarden](https://modrinth.com/mod/Ejfl5qDL) by quek
+- [Traveler's Titles](https://modrinth.com/mod/JtifUr64) by YUNGNICKYOUNG
+- [Waystones](https://modrinth.com/mod/LOpKHB2A) by BlayTheNinth
+- [Waystones Teleport Pets](https://modrinth.com/mod/VaCl9OtG) by precisemodpacker
+- [When Dungeons Arise](https://modrinth.com/mod/8DfbfASn) by Aurelj, DiamondTown and Zephyrusj
+- [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) by xaero96
+- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) by xaero96
+- [YUNG's API](https://modrinth.com/mod/Ua7DFN59) by YUNGNICKYOUNG
+- [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) by YUNGNICKYOUNG, Tera
+- [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5) by YUNGNICKYOUNG, Acarii
+- [YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ) by YUNGNICKYOUNG, Acarii
+- [YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih) by YUNGNICKYOUNG, Tera
+- [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr) by YUNGNICKYOUNG
+- [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) by YUNGNICKYOUNG, Acarii
+- [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4) by YUNGNICKYOUNG, Tera
+- [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU) by YUNGNICKYOUNG, Acarii
+- [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87) by YUNGNICKYOUNG, Acarii
+- [YUNG's Bridges](https://modrinth.com/mod/Ht4BfYp6) by YUNGNICKYOUNG
+- [cataclysm](https://modrinth.com/mod/46KJle7n) by L\_Ender
